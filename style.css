@@ -1,0 +1,9 @@
+fieldset {
+    border-radius: 1em;
+    border-color: #CC4040;
+    width: 25em;
+}
+
+.input {
+    width: 30em;
+}
